@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="absolute inset-0 bg-gradient-glow opacity-30"></div>
       
       <div className="container mx-auto px-6 text-center relative z-10">
-        <div className="fade-in-up">
+        <div className="fade-in-up" style={{ margin-top: '100px' }}>
           <h1 className="text-5xl md:text-7xl font-bold mb-6 gradient-text">
             Get paid while we code
           </h1>
