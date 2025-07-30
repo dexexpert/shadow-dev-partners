@@ -8,7 +8,7 @@ const About = () => {
               What Is TechFusion?
             </h2>
             <p className="text-lg md:text-xl text-foreground/80 mb-8 leading-relaxed">
-              TechFusion is a remote dev agency that partners with US-based professionals to turn their LinkedIn, Upwork, Outlier, or freelance profiles into consistent revenue — without you needing to do any dev work yourself.
+              TechFusion is a remote dev agency that partners with US, Canda and European Countries-based professionals to turn their LinkedIn, Upwork, Outlier, or freelance profiles into consistent revenue — without you needing to do any dev work yourself.
             </p>
             <div className="text-xl text-accent font-semibold mb-8">
               This isn't a course. It's not coaching.<br/>

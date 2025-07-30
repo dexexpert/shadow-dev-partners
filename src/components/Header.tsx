@@ -16,7 +16,7 @@ const Header = () => {
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <img src={techfusionLogo} alt="TechFusion" className="w-8 h-8" />
+            
             <div className="gradient-text text-2xl font-bold">
               TechFusion
             </div>

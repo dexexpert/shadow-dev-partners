@@ -9,27 +9,27 @@ const FAQ = () => {
   const faqs = [
     {
       question: "What if I don't have a strong profile?",
-      answer: "No problem! We'll help you build a compelling freelance profile from scratch. Our team knows exactly what clients look for and will optimize your profile to attract high-quality projects. We handle the profile creation, portfolio development, and positioning strategy."
+      answer: "We'll help you build one from scratch — no problem."
     },
     {
       question: "How do I get paid?",
-      answer: "Payments come directly from clients to you, just like any normal freelance work. We agree on a percentage split upfront, and you keep the majority. Typical splits range from 60-80% to you, depending on your involvement level. You handle your own invoicing and maintain full control of client relationships."
+      answer: "We split earnings from every project closed through your profile. All payments are tracked and sent transparently."
     },
     {
       question: "Can I talk to someone who's already doing this?",
-      answer: "Absolutely! We can connect you with current partners who are happy to share their experience. During your strategy call, we can arrange a brief conversation with someone in a similar situation to yours. This helps you understand the day-to-day reality and earnings potential."
+      answer: "Absolutely - ask and we'll share examples or even connect you with one of our partners."
     },
     {
       question: "What kind of projects do you handle?",
-      answer: "We specialize in web development, mobile apps, SaaS platforms, e-commerce sites, and custom software solutions. Our team covers frontend, backend, full-stack development, and can handle projects ranging from simple websites to complex enterprise applications. We focus on projects that match your profile's positioning."
+      answer: "We handle a wide range of web and mobile development projects, including websites, web applications, e-commerce stores, and more."
     },
     {
       question: "How much time do I need to commit?",
-      answer: "Most partners spend 5-10 hours per week. This includes approving proposals, joining client calls (when needed), and staying updated on project progress. You're not doing any coding or technical work - just maintaining client relationships and providing the 'face' of the business."
+      answer: "Most of our partners spend between 5-10 hours per week, primarily for simple communications and occasional client calls."
     },
     {
       question: "What if I have some technical knowledge already?",
-      answer: "Even better! Partners with technical backgrounds often earn more because they can handle more complex client conversations and position themselves for higher-value projects. Your existing knowledge becomes a competitive advantage, and our team handles the actual implementation while you focus on strategy and client relationships."
+      answer: "That's great! Your existing knowledge can help with client interactions, but it's not required. Our team handles all technical aspects regardless."
     }
   ];
 
